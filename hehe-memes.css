@@ -3,7 +3,7 @@ body{
 }
 #HEHE_BOI{
     position: relative;
-    left: 220px;
+    left: 210px;
 }
 #info1{
     position: relative;
@@ -14,6 +14,22 @@ body{
     left: 220px;
 }
 #info2{
+    position: relative;
+    left: 300px;
+}
+#ling_gang{
+    position: relative;
+    left: 230px;
+}
+#info3{
+    position: relative;
+    left: 280px;
+}
+#rat_dance{
+    position: relative;
+    left: 250px;
+}
+#info4{
     position: relative;
     left: 300px;
 }
